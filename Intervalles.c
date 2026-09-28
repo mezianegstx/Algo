@@ -26,7 +26,7 @@ int main(void) {
 		aire = 0;
 	}
 
-	printf("Aire : %d\n", aire);
+	printf("%d\r\n", aire);
 
 	return 0;
 }

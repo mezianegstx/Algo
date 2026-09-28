@@ -21,10 +21,11 @@ int main(void) {
 	scanf("%d", &n);
 	int a = n;
 	int i = 0;
-	printf("\n");
+	//printf("\n");
+	if (a==1) printf("1\r\n");
 	while (a != 1) {
 		a = get_a(i++, n);
-		printf("%d\n", a);
+		printf("%d\r\n", a);
 	}
 	return 0;
 }

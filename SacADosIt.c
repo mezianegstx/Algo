@@ -33,9 +33,9 @@ int main(void) {
 	}
 	
 	if (reachable[capacity]) {
-		printf("OUI\n");
+		printf("OUI\r\n");
 	} else {
-		printf("NON\n");
+		printf("NON\r\n");
 	}
 
 	free(objects);
