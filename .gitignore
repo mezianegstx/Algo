@@ -1,0 +1,17 @@
+# Exécutables compilés : tout fichier SANS extension est ignoré
+# (gcc -o Collatz Collatz.c produit "Collatz", sans point dans le nom)
+*
+!*/
+!*.*
+!Makefile
+
+# Autres produits de compilation
+*.o
+*.out
+*.exe
+
+# Fichiers temporaires des éditeurs (vim, etc.)
+*.swp
+*.swo
+*~
+.DS_Store
