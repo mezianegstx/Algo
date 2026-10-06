@@ -1,0 +1,9 @@
+insert 5
+insert -3
+insert 5
+insert 0
+extract
+extract
+extract
+extract
+bye

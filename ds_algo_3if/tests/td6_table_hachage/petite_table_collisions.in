@@ -1,0 +1,10 @@
+init 2
+insert a 1
+insert b 2
+insert c 3
+delete a
+query b
+insert b 9
+query b
+stats
+bye

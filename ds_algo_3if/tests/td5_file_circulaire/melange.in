@@ -1,0 +1,7 @@
+queue 1
+dequeue
+dequeue
+queue 2
+queue 3
+dequeue
+bye

@@ -1,0 +1,11 @@
+init 100
+insert a b
+insert a c
+query a
+query b
+insert b d
+delete a
+query a
+stats
+destroy
+bye

@@ -1,0 +1,7 @@
+init 5
+insert x 1
+delete x
+insert x 2
+query x
+stats
+bye
